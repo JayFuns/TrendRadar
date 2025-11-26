@@ -7,7 +7,6 @@ DeepSeek
 华为
 鸿蒙
 HarmonyOS
-任正非
 
 比亚迪
 王传福
@@ -22,6 +21,13 @@ DJI
 bytedance
 张一鸣
 
+阿里巴巴
+马云
+
+斑马智行
+
+特朗普
+
 特斯拉
 马斯克
 
@@ -31,8 +37,6 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
 
 谷歌
 google
@@ -52,7 +56,6 @@ mac
 ios
 
 ai
-!gai
 人工智能
 
 新能源
@@ -72,4 +75,6 @@ ai
 
 科技
 
-核能
+湖人
+湖人队
+詹姆斯
